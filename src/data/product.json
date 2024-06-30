@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Vanilla cake",
+      "price": "Rs999",
+      "image": "1"
+    },
+    {
+      "id": 2,
+      "name": "Red-Velvet",
+      "price": "Rs499",
+      "image": "2"
+    },
+    {
+      "id": 3,
+      "name": "Chocolate cake",
+      "price": "Rs290",
+      "image": "3"
+    },
+    {
+      "id": 4,
+      "name": "CupCake",
+      "price": "Rs799",
+      "image": "4"
+    }
+  ]
